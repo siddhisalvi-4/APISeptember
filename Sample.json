@@ -1,0 +1,36 @@
+[{
+	"Name":"Siddhi",
+	"Phone":7678787,
+	"Present":true,
+	"Courses":["API","Webautomation","Mobileautomation"],
+	"Anything Else":null,
+	"OfficeAddress":[{ 
+	         "Area":"Whitefield",
+					 "floor":1201,
+					 "pin":459999,
+					 "city":"Banglore",
+					 "isOpen":false
+	                },
+					        { 
+	         "Area":"GTA",
+					 "floor":1301,
+					 "pin":4545999,
+					 "city":"Mumbai",
+					 "isOpen":true
+	                }]
+},
+{
+	"Name":"Saili",
+	"Phone":7678787,
+	"Present":false,
+	"Courses":["Webautomation","Mobileautomation"],
+	"Anything Else":null,
+	"OfficeAddress":{ 
+	         "Area":"Whitefield",
+					 "floor":1201,
+					 "pin":459999,
+					 "city":"Banglore",
+					 "isOpen":false
+	                }
+}
+]

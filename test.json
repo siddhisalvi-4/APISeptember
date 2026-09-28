@@ -1,0 +1,58 @@
+[
+{
+"id": 1,
+"name": "Mukesh",
+"middleName": null,
+"job": "Trainer",
+"age": 32,
+"isActive": true,
+"salary": 75000.50,
+"email": "mukesh@example.com",
+"phone": "+91-9876543210",
+"skills": ["API Testing", "Postman", "Java", "Selenium"],
+"address": {
+"street": "123 Main Street",
+"city": "Bangalore",
+"state": "Karnataka",
+"country": "India",
+"pincode": 560001
+},
+"socialMedia": {
+"linkedin": "https://linkedin.com/in/mukesh",
+"github": "https://github.com/mukesh"
+},
+"projects": [
+{"projectName": "Automation Suite", "status": "Completed"},
+{"projectName": "API Framework", "status": "Ongoing"}
+],
+"createdAt": "2024-03-29T12:30:00Z"
+},
+{
+"id": 2,
+"name": "Akash Kumar",
+"middleName": "A",
+"job": "DevOps",
+"age": 28,
+"isActive": false,
+"salary": 60000,
+"email": "akash@example.com",
+"phone": "+1-202-555-0123",
+"skills": ["Node.js", "React", "GraphQL"],
+"address": {
+"street": "456 Elm Street",
+"city": "New York",
+"state": "NY",
+"country": "USA",
+"pincode": 10001
+},
+"socialMedia": {
+"linkedin": "https://linkedin.com/in/akash",
+"github": "https://github.com/akash"
+},
+"projects": [
+{"projectName": "Web App", "status": "Ongoing"},
+{"projectName": "Cloud Migration", "status": "Planning"}
+],
+"createdAt": "2024-03-28T10:00:00Z"
+}
+]
